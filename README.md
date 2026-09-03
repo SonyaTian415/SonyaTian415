@@ -1,10 +1,10 @@
 ### Hi, I'm Sonya 👋
 
-🎓 Penultimate-year Master of Information Technology student at UNSW, Sydney, Australia — currently in Term 2.
+🎓 Penultimate-year Master of Information Technology student at UNSW, Sydney, Australia — currently in Term 3.
 
 💻 Fluent in Python
 
-📚 Currently learning: Data Structures & Algorithms, Database Systems
+📚 Completed: Data Structures & Algorithms, Database Systems
 
 🔎 Looking for a **Summer internship in Sydney**
 
